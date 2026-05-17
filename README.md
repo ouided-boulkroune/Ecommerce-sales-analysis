@@ -65,7 +65,8 @@ ecommerce-analysis-project/
 ├── analysis.ipynb                    # Python notebook with full analysis
 ├── clean_superstore_data.csv         # Cleaned dataset
 ├── superstore.db                     # SQLite database
-├── dashboard_salesproject.png        # Dashboard preview
+├── superstore-sales-dashboard.pbix   # Power BI dashboard
+├── dashboard_screenshot.png          # Dashboard preview
 ├── chart1_sales_profit_by_region.png
 ├── chart2_sales_profit_by_category.png
 ├── chart3_sales_trend.png
